@@ -7,7 +7,8 @@ Example of what api must send to this code.
   "atalhos": 
     {
       "prs": "python manage.py runserver",
-      "subl": "sublime", "dckr": "docker restart"
+      "subl": "sublime",
+      "dckr": "docker restart"
     }
 }
 ```
